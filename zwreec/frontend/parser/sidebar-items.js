@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Elem","The Type that represents an element of the grammar"],["NonTerminalType","The Type of nonterminal encountered by the parser."],["ParserError",""]],"struct":[["ParseState","Stores the stack for the custom iterator `parsing()`"],["Parser",""]]});

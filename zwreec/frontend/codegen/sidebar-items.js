@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["function_random","random(from, to) -> zcode op_random(0, range)"],["gen_zcode","add zcode based on tokens"],["generate_zcode",""]],"struct":[["CodeGenManager",""],["IdentifierProvider",""],["SymbolTable",""]]});

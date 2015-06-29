@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ArgType","types of possible arguments"],["JumpType",""],["Operand",""],["Type",""],["ZOP",""]],"struct":[["Constant",""],["FormattingState",""],["LargeConstant",""],["Variable",""],["Zfile",""],["Zjump",""],["Zlabel",""],["Zstring",""]]});

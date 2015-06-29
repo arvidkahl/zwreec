@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["encode","encodes an string to z-characters and returns the length of the used bytes TODO: Only works with lower case letters"],["pos_in_unicode","returns the position in the unicode-table"]],"static":[["ALPHABET",""]]});
